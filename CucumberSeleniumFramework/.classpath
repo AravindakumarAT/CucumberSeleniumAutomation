@@ -45,5 +45,6 @@
 			<attribute name="maven.scope" value="compile"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="C:/SeleniumCourse/Codings/Section_29_Grid/selenium-server-4.29.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
